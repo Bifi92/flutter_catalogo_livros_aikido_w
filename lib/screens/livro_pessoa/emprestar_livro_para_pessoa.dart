@@ -1,12 +1,10 @@
 import 'package:catalogo_livro_aikido_w/dao/emprestimo.dart';
 import 'package:catalogo_livro_aikido_w/dao/livro.dart';
-import 'package:catalogo_livro_aikido_w/dao/pessoa.dart';
 import 'package:catalogo_livro_aikido_w/models/emprestimo.dart';
 import 'package:catalogo_livro_aikido_w/models/livro.dart';
 import 'package:catalogo_livro_aikido_w/models/pessoa.dart';
 import 'package:catalogo_livro_aikido_w/utils/constantes.dart';
 import 'package:date_time_picker/date_time_picker.dart';
-import 'package:intl/intl.dart';
 import 'package:flutter/material.dart';
 
 class EmprestarLivroParaPessoaScreen extends StatelessWidget {

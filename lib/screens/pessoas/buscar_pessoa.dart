@@ -1,9 +1,7 @@
-import 'package:catalogo_livro_aikido_w/dao/livro.dart';
 import 'package:catalogo_livro_aikido_w/dao/pessoa.dart';
 import 'package:catalogo_livro_aikido_w/models/livro.dart';
 import 'package:catalogo_livro_aikido_w/models/pessoa.dart';
 import 'package:catalogo_livro_aikido_w/utils/constantes.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
 class BuscarPessoaScreen extends StatefulWidget {
